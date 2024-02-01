@@ -1,2 +1,5 @@
 to jest pierwsza linia
 to jest plik
+
+
+Teraz sa jakies zzmiany w branchu
